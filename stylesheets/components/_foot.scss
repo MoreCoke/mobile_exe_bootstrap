@@ -1,0 +1,12 @@
+.footer{
+    background-color:#222;
+    text-align: center;
+    color:rgba(255,255,255,.3);
+    a{
+        color:rgba(255,255,255,.3);
+        &:hover{
+        color: $primary;
+        text-decoration: none;
+    }
+    }
+}

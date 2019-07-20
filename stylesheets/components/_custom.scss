@@ -1,0 +1,39 @@
+.navbar-dark{
+    .navbar-brand{
+        color:$primary;
+    &:hover{
+        color:white;
+    }
+    } 
+}
+.navbar-dark.scrolled{
+    background: white !important;
+    transition: 0.5s;
+    .navbar-brand{
+        color:black;
+        &:hover{
+            color:$primary;
+        }
+    }
+    .nav-link{
+        color: black;
+        &:hover{
+            color:$primary;
+        }
+    }
+}
+.btn.btn-outline-white{
+    &.btn-lg{
+        padding: 15px 45px;
+        font-size: 11px;
+        letter-spacing: 2px;
+    }
+    &:hover{
+        background-color:$primary;
+        color: white;
+        border-color: $primary;
+    }
+}
+.iconify{
+    font-size:80px;
+}

@@ -1,0 +1,10 @@
+.header {
+  position: relative;
+  background: url("../../img/bg-pattern.png"), linear-gradient(to left, theme-color("accent"), theme-color("bright"));
+  //height: 100vh;
+  min-height: 100vh;//775px;
+//   @media (min-width: 992px) {
+//     height: 100vh;
+//     min-height: 775px;
+//   }
+}
