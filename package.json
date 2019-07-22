@@ -1,10 +1,14 @@
 {
   "name": "mobile_exe_bootstrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "bootstrap exercise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoreCoke/mobile_exe_bootstrap.io.git"
   },
   "author": "",
   "license": "ISC",
