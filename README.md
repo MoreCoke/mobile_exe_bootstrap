@@ -3,7 +3,6 @@
 ### My github pages
 ---
 Master:[https://morecoke.github.io/mobile_exe_bootstrap.io/](https://morecoke.github.io/mobile_exe_bootstrap.io/)   
-Gh-pages:[https://morecoke.github.io/mobile_exe_bootstrap.io/](https://morecoke.github.io/mobile_exe_bootstrap.io/)
 ### Question
 ---
 However, it is not complete version ,there has some problems on my wbsite:
