@@ -1,8 +1,7 @@
 # mobile_exe_bootstrap.github.io
-
+### Branch:gh-pages
 ## HI ,Welcome to my github.This is my second execise for bootstrap.
 ### My github pages
-### Branch:gh-pages
 ---
 Branch:[ https://morecoke.github.io/mobile_exe_bootstrap.github.io/]( https://morecoke.github.io/mobile_exe_bootstrap.github.io/)   
 ### Question
